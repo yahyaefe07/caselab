@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 [yahya_efe_07]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT OFFICABILITY, WHETHER IN AN ACTION 
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
+THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+==============================================================================
+ATTRIBUTIONS & THIRD-PARTY NOTICES
+==============================================================================
+
+1. CSGO-API (ByMykel)
+   This project utilizes the unofficial CSGO-API created by ByMykel to fetch
+   game asset URLs and skin metadata. Special thanks to ByMykel for creating
+   and maintaining this open-source tool.
+   Repository: https://github.com/ByMykel/CSGO-API
+
+2. Valve Corporation
+   Counter-Strike, CS:GO, CS2, and all associated logos, weapon designs, skin 
+   textures, and game assets are trademarks and/or registered trademarks 
+   of Valve Corporation. All rights belong to Valve Corporation.
+   
+   This project is an independent community development and is not 
+   affiliated with, sponsored by, endorsed by, or officially associated 
+   with Valve Corporation in any way.
