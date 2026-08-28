@@ -2,7 +2,7 @@
 
 CaseLab is an unofficial fan-made case simulator and inventory application inspired by Counter-Strike-style item collections.
 
-## Features
+## ⚡ Features
 
 - Case catalog and reward previews
 - Simulated item collection
@@ -12,8 +12,8 @@ CaseLab is an unofficial fan-made case simulator and inventory application inspi
 - Inventory buying and selling
 - Rarity colors and sound effects
 
-## Installation
-Go to the [releases](https://github.com) tab to download
+## 💻 Installation
+Go to the [Releases](https://github.com/yahyaefe07/caselab/releases) tab to download
 
 ## Credits
 
