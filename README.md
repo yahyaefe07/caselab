@@ -12,6 +12,9 @@ CaseLab is an unofficial fan-made case simulator and inventory application inspi
 - Inventory buying and selling
 - Rarity colors and sound effects
 
+## Installation
+Go to the [releases](https://github.com) tab to download
+
 ## Credits
 
 Special thanks to [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) for the catalog data and inspiration.
